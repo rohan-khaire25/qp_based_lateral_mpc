@@ -1,0 +1,5 @@
+<launch>
+
+    <node pkg="mpc_qp_control" type="mpc_qp_control" name="mpc_qp_control" output="screen"/>
+
+</launch>    
